@@ -1,5 +1,5 @@
-# BDD framework for testing applications in Csharp using Specflow and celerium and webdriver
-TABLE OF CONTENT
+# BDD framework for testing applications in Csharp using Specflow and celenium and webdriver and nunit
+TABLE OF CONTENT requirement for the testing framwork
 
 1. Feature File 
 2. Step Definition

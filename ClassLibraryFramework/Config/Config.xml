@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xml>
+  <AppSetting>
+    <Browser>Chrome</Browser>          <!--Chrome,FireFox,InternetExplorer-->
+    <FolderLocation>AutomationFolder</FolderLocation>
+    <Url>http://boxmail.veridone.net:8080/roundcube</Url>
+    <AdminUsername>Test1</AdminUsername>
+    <AdminPassword>Test2</AdminPassword>
+    <EnableReport>Yes</EnableReport>
+    <EnableLog>Yes</EnableLog>
+    <DataBaseConnectionString> </DataBaseConnectionString>
+  </AppSetting>
+</xml>
